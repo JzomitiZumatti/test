@@ -1,6 +1,6 @@
 public class Test {
 
-    public void SayHello() {
-        System.out.println("Hello!");
+    public void SayHello(String input) {
+        System.out.println(input);
     }
 }
